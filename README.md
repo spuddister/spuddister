@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Sam Puddister. 
 I’m currently working my way through [The Odin Project](https://www.theodinproject.com/) and I'm working hard to become a full stack developer. 
-I’m currently making my way through the Javascript course after completing the foundation and the intermediate HTML and CSS courses. 
+Right now I'm making my way through the Javascript course after completing the foundation and the intermediate HTML and CSS courses. 
 
 
 <!---
