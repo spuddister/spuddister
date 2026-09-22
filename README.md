@@ -1,13 +1,30 @@
-# Welcome to my profile! 
+# Hi, I'm Sam
 
-My name is Sam Puddister and I am a IT Analyst with a Bachelors of Aerospace Engineering. My goal is to make a career switch into web development and become an expert in the field. 
+I'm an IT Analyst with the Government of Canada and a Bachelor
+of Engineering in Aerospace (Avionics).
 
-I’m currently working my way through [The Odin Project](https://www.theodinproject.com/) to become a full stack developer. 
+My professional background includes Microsoft cloud and hybrid
+infrastructure, Exchange Online migrations, PowerShell automation,
+identity and access management, production operations, and
+security-related work.
 
-Take a look at some of my projects to get an idea of what I am proficient with.
+Outside of work, I use personal projects to expand my technical
+skills across software development, cloud infrastructure,
+automation, DevOps, and emerging technologies.
 
+## Areas of Interest
 
-<!---
-spuddister/spuddister is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Cloud Infrastructure
+- Azure
+- Infrastructure Automation
+- PowerShell
+- Cloud Security
+- DevOps
+- Infrastructure as Code
+- Software Development
+
+## Projects
+
+This profile contains projects from my full-stack development
+studies as well as ongoing infrastructure and automation
+experimentation.
